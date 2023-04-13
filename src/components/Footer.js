@@ -36,7 +36,7 @@ function Footer (){
           </div>
 
             <div className="langbox">
-                    <div><i class='bx bx-globe'></i></div>
+                    <div><i className='bx bx-globe'></i></div>
                     <select className="lang"><option>English</option></select>
                     
              </div>

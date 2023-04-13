@@ -10,6 +10,7 @@ body{
 
 .first{
   height: 85vh;
+  min-height: 85vh;
   width: 100%;
   background-size: 100% 100%;
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url(./images/netflix.jpg);
